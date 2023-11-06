@@ -1,0 +1,12 @@
+.card {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .cardContent {
+    padding: 20px;
+  }
+  
+  .cardMedia {
+    object-fit: cover;
+  }

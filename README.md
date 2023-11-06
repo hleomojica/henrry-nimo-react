@@ -2,6 +2,13 @@
 
 Test app built with React.js, Next.js, and Material UI, which displays market data of cryptocurrencies and allows users to view detailed information about each cryptocurrency.
 
+## Tech used
+
+- [React.js](https://reactjs.org/)
+- [Next.js](https://nextjs.org/)
+- [Material UI](https://material-ui.com/)
+- [CoinGecko API](https://www.coingecko.com/en/api)
+
 
 ## Features
 
@@ -21,6 +28,8 @@ Test app built with React.js, Next.js, and Material UI, which displays market da
 
    ```bash
    npm install
+   ```
+    ```bash
    npm run dev
    ```
 
@@ -33,10 +42,7 @@ This will start the Next.js development server and open the app in your default 
 
 2. **Explore Cryptocurrency Details:** Click on a cryptocurrency row to view its detailed information page.
 
-## Contributing
 
-We welcome contributions to improve the app. Please refer to the CONTRIBUTING.md file for guidelines and procedures.
 
 ## License
-
 This project is licensed under the MIT License. Please refer to the LICENSE file for full details.
